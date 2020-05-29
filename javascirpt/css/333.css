@@ -1,0 +1,17 @@
+button{
+			width:150px;
+  			background-color: #00CCEE;
+  			margin-left:15px;
+  			font-size:120%;
+  		}
+
+.stuff{
+  		color:white;
+		background-color: #7F7F7F;
+      text-align:center
+      Margin:20px;
+}
+p{
+	width:250px;
+	border:2px solid black;
+}
